@@ -5,6 +5,8 @@
     "fs-extra": "^10.1.0",
     "ganache": "^7.4.3",
     "hardhat": "^2.11.2",
+    "prettier": "^2.7.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.24",
     "solc": "0.8.7-fixed"
   },
   "scripts": {
